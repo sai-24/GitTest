@@ -1,9 +1,6 @@
 public with sharing class GitTest {
-    public void GitTest() {
-        System.debug('Welcome Girish');
-
-    }
-    public void Meth1() {
+   
+    public void SaiTest123() {
         System.debug('Welcome Sai');
 
         System.debug('Welcome sai');
